@@ -1,0 +1,28 @@
+[
+    {
+      "role": "Software Engineer",
+      "organisation": "Google",
+      "startDate": "Sept, 2022",
+      "endDate": "Present",
+      "experiences": ["Want to work as Software Engineer at Google."],
+      "imageSrc": "history/google.png"
+    },
+    {
+      "role": "UI Designer.",
+      "organisation": "Microsoft.",
+      "startDate": "Aug, 2021",
+      "endDate": "Aug, 2022",
+      "experiences": ["Microsoft is one of my favourite Company. Want to work at Microsoft in future."],
+      "imageSrc": "history/microsoft.png"
+    },
+    {
+      "role": "SWE Intern",
+      "organisation": "Netflix",
+      "startDate": "Apr, 2020",
+      "endDate": "Jun, 2020",
+      "experiences": [
+        "I love to watch Netflix. So, I would love to work on netflix too."
+      ],
+      "imageSrc": "history/netflix.png"
+    }
+  ]
